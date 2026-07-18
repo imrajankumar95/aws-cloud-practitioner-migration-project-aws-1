@@ -21,7 +21,7 @@ This project presents a high-level AWS migration strategy for moving an on-premi
 Approximately **CAD $1,000-$3,000 per month**, depending on traffic, compute capacity, storage, backups, and data transfer.
 
 ## Architecture
-![AWS Target Architecture](architecture/aws-target-architecture.png)<img width="1448" height="1086" alt="Assgnmnt 2 pic" src="https://github.com/user-attachments/assets/86426b40-e404-4d87-a422-924a16369193" />
+![AWS Target Architecture](architecture/aws-target-architecture.png)
 
 ## Key Learning
 
